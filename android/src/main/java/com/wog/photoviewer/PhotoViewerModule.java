@@ -24,9 +24,9 @@ public class PhotoViewerModule extends ReactContextBaseJavaModule implements Act
     public void showPhotoViewer(String url) {
         Activity currentActivity = getCurrentActivity();
         if (currentActivity != null) {
-            Intent videoIntent = new Intent(Intent.ACTION_VIEW);
-            videoIntent.setDataAndType(Uri.parse(url), "images/*");
-            currentActivity.startActivityForResult(videoIntent, PHOTO_CODE);
+            Intent photoIntent = new Intent(Intent.ACTION_VIEW);
+            photoIntent.setDataAndType(Uri.parse(url), "image/*");
+            currentActivity.startActivityForResult(photoIntent, PHOTO_CODE);
         }
     }
 
