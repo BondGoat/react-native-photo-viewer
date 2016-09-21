@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Created by Bond Nguyen on 9/21/16.
  */
-public class PhotoViewPackage implements ReactPackage {
+public class PhotoViewerPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         return Arrays.<NativeModule>asList(new PhotoViewerModule(reactContext));
