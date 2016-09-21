@@ -5,7 +5,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BondGoat/react-native-photo-videwer.git"
+    "url": "git+https://github.com/BondGoat/react-native-photo-viewer.git"
   },
   "keywords": [
     "react-native-component",
@@ -19,10 +19,10 @@
   "author": "Bond G. Nguyen",
   "license": "WOG",
   "bugs": {
-    "url": "https://github.com/BondGoat/react-native-photo-videwer/issues"
+    "url": "https://github.com/BondGoat/react-native-photo-viewer/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.30.0"
   },
-  "homepage": "https://github.com/BondGoat/react-native-photo-videwer"
+  "homepage": "https://github.com/BondGoat/react-native-photo-viewer"
 }
