@@ -1,6 +1,6 @@
 {
   "name": "react-native-photo-viewer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "React native photo viewer component, used for Android, iOS.",
   "main": "index",
   "repository": {
