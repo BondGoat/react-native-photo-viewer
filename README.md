@@ -1,4 +1,4 @@
-# react-native-photo-videwer
+# react-native-photo-viewer
 React native photo viewer component for Android, iOS
 
 ## Table of contents
