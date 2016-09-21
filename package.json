@@ -1,0 +1,28 @@
+{
+  "name": "react-native-photo-viewer",
+  "version": "0.0.1",
+  "description": "React native photo viewer component, used for Android, iOS.",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BondGoat/react-native-photo-videwer.git"
+  },
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "photo",
+    "image",
+    "images",
+    "video"
+  ],
+  "author": "Bond G. Nguyen",
+  "license": "WOG",
+  "bugs": {
+    "url": "https://github.com/BondGoat/react-native-photo-videwer/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.30.0"
+  },
+  "homepage": "https://github.com/BondGoat/react-native-photo-videwer"
+}
